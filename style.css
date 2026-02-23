@@ -1,0 +1,17 @@
+body{
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        button{
+            height: 50px;
+            width: 200px;
+            border-radius: 10px;
+            border: none;
+            outline: none;
+            font-size: 25px;
+            background-color: aqua;
+        }
